@@ -1,6 +1,6 @@
 ![logo](https://github.com/Abhishek24092000/Abhishek24092000/blob/main/web-developer.gif)
-<h1 align="center">Hi 👋, I'm Abhishek Paswan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Shivam Rathour</h1>
+<h3 align="center">Currently pursuing M TECH in CSE from NIT Jalandhar</h3>
 
 <img align="right" alt="coding" width="400" src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif">
 
@@ -10,11 +10,7 @@
 
 - 🌱 I’m currently learning **CSS , JavaScript , AIML**
 
-- 💬 Ask me about **M.Tech Student in Computer Science at KIIT | Aspiring Tech Innovator | Passionate about AI & Machine Learning**
-
-- 📫 How to reach me **abhishek2409paswan@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FfnqJsCLpT_jI7kMgYy2Jh7r3lEdVLYt/view?usp=sharing](https://drive.google.com/file/d/1FfnqJsCLpT_jI7kMgYy2Jh7r3lEdVLYt/view?usp=sharing)
+- 📫 How to reach me **shivamr.cs.23@nitj.ac.in**
 
 
 
